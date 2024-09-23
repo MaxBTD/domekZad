@@ -24,7 +24,8 @@
 
         /*
             Nazwa:                  onDislikeClicked()
-            Opis:                   Zmniejsza ilość polubień o jeden, gdy przycisk "USUŃ" jest kliknięty
+            Opis:                   Zmniejsza ilość polubień o jeden (tylko wtedy kiedy liczba polubień
+                                    jest większa od zera), gdy przycisk "USUŃ" jest kliknięty.
             Parametry wejściowe:    sender - kliknięty objekt
             Zwracana wartość:       brak
             Autor:                  10231203102
